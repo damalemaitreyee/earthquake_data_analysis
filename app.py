@@ -1,5 +1,4 @@
 # Name: Maitreyee Damale
-# ID: 1001878520
 from datetime import date
 import os
 from sqlite3.dbapi2 import SQLITE_ALTER_TABLE
