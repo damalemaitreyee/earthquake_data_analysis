@@ -1,0 +1,6 @@
+Flask==2.1.2
+pyodbc==4.0.32
+azure.storage.blob
+plotly
+numpy
+markupsafe
